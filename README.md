@@ -1,7 +1,7 @@
 ### Hi there, my name is Luis de Haro and I am a Front end Developer👋
 # 
-- 🔭 I’m currently i am improving my skills in JavaScript
-- 🌱 I’m currently learning React and TypeScript
+- 🔭 I’m currently i am improving my skills in React
+- 🌱 I’m currently learning Express.js
 - 💻 I am looking for a junior developer job!
 - 📫 How to reach me: luisdeharo4@gmail.com
 - 🧠 My skils in programing: JavaScript, Vue, React, Node.js, TailwindCSS, Bootstrap, Express.js, MySQL
