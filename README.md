@@ -1,4 +1,4 @@
-### Hi there, my name is Luis de Haro and I am a Front end Developer👋
+### Hi there, my name is Luis de Haro and I am a Full Stack end Developer👋
 # 
 - 🔭 I’m currently i am improving my skills in React
 - 🌱 I’m currently learning Express.js
