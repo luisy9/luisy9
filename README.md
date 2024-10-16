@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Express.js
 - 💻 I am looking for a junior developer job!
 - 📫 How to reach me: luisdeharo4@gmail.com
-- 🧠 My skils in programing: JavaScript, React, Angular, Node.js, TailwindCSS, Bootstrap, Express.js, MySQL, Laravel
+- 🧠 My skils in programing: JavaScript, React, Angular, Node.js, MySQL, C#, Laravel
 <!--
 **luisy9/luisy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
