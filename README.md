@@ -1,7 +1,7 @@
 ### Hi there, my name is Luis de Haro and I am a Full Stack end Developer👋
 # 
 - 🔭 I’m currently i am improving my skills in React & Angular
-- 🌱 I’m currently learning Express.js
+- 🌱 I’m currently learning C#
 - 💻 I am looking for a junior developer job!
 - 📫 How to reach me: luisdeharo4@gmail.com
 - 🧠 My skils in programing: JavaScript, React, Angular, Node.js, MySQL, C#, Laravel
